@@ -1,22 +1,25 @@
 {
-  "name": "fabletics-month-skipper",
-  "version": "1.0.0",
-  "description": "Skip the month for fabletics without having to do anything",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vance27/fabletics-month-skipper.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vance27/fabletics-month-skipper/issues"
-  },
-  "homepage": "https://github.com/vance27/fabletics-month-skipper#readme",
-  "devDependencies": {
-    "cypress": "^14.5.1",
-    "typescript": "^5.8.3"
-  }
+    "name": "fabletics-month-skipper",
+    "version": "1.0.0",
+    "description": "Skip the month for fabletics without having to do anything",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format": "prettier --write .",
+        "format:check": "prettier --check ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vance27/fabletics-month-skipper.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vance27/fabletics-month-skipper/issues"
+    },
+    "homepage": "https://github.com/vance27/fabletics-month-skipper#readme",
+    "devDependencies": {
+        "cypress": "^14.5.1",
+        "prettier": "^3.6.2",
+        "typescript": "^5.8.3"
+    }
 }
