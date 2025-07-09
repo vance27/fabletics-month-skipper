@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/vance27/fabletics-month-skipper#readme",
   "devDependencies": {
-    "cypress": "^14.5.1"
+    "cypress": "^14.5.1",
+    "typescript": "^5.8.3"
   }
 }
